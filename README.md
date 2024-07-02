@@ -1,6 +1,15 @@
 - 👋 Hi, I’m @muhammadwasil97
-- 👀 I’m interested in PHP development
-- 💞️ I’m looking to collaborate on PHP and laravel projects
+- 👀 I’m a computer engineer and a passionate developer
+- 💞️ I'm interested in
+- -  Web Development
+  -  Data Science
+  -  Internet of Things
+  -  CRM & ERP
+- Favourite Programming languages
+- - Javascript
+  - Python
+  - PHP
+  - Java
 - 📫 How to reach me wasilmuhammad50@gmail.com
 
 <!---
